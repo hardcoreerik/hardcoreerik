@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, I'm Erik (hardcoreerik)
 
-<!--
-**hardcoreerik/hardcoreerik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build local-first tools — AI orchestration, embedded firmware, and offline desktop apps. No cloud dependency where I can help it.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building**
+- [TheOrc](https://github.com/hardcoreerik/TheOrc) — a local multi-agent AI orchestration IDE (C#/Avalonia, native llama.cpp + Ollama runtimes, self-training boss model)
+- - [BeamForge](https://github.com/hardcoreerik/BeamForge) — offline music-reactive DMX control and ILDA laser export for Windows
+  - - [TheOrcCompanion](https://github.com/hardcoreerik/TheOrcCompanion) — Android field node for TheOrc's HIVE MIND
+   
+    - I also work on embedded/wireless-assessment tooling ([NEONDRIVE](https://github.com/hardcoreerik/NEONDRIVE), [Wardrive Analyzer](https://github.com/hardcoreerik/Wardrive-Analyzer)) for authorized lab use.
+   
+    - Find me on GitHub — feel free to open an issue on any of the above.
