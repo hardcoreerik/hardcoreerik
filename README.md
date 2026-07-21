@@ -1,11 +1,10 @@
 ### Hi, I'm Erik (hardcoreerik)
 
-I build local-first tools — AI orchestration, embedded firmware, and offline desktop/mobile apps. No cloud dependency where I can help it.
+I tell the A.I. different words and it makes things for me.
 
 **Projects**
-- [TheOrc](https://github.com/hardcoreerik/TheOrc) — a local multi-agent AI orchestration IDE (C#/Avalonia, native llama.cpp + Ollama runtimes, self-training boss model)
+- [TheOrc](https://github.com/hardcoreerik/TheOrc) — a local multi-agent AI orchestration IDE/Chat/Distrubuted computeing thing. (C#/Avalonia, native llama.cpp + Ollama runtimes, self-training boss model)
    - [TheOrcCompanion](https://github.com/hardcoreerik/TheOrcCompanion) — Android field node for TheOrc's HIVE MIND
 - [NEONDRIVE](https://github.com/hardcoreerik/NEONDRIVE) — multi-target ESP32 firmware for authorized wireless assessment labs
-   - [Wardrive Analyzer](https://github.com/hardcoreerik/Wardrive-Analyzer) — desktop wardrive evidence analysis platform with local vault, parsers, and report exports
+   - [Wardrive Analyzer](https://github.com/hardcoreerik/Wardrive-Analyzer) — desktop wardrive evidence analysis platform with local vault, parsers, and report exports the stuff you get from NEONDRIVE and other pentesting tools.
      
-      - Find me on GitHub — feel free to open an issue on any of the above.
